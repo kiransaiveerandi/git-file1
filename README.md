@@ -6,12 +6,6 @@ class HelloWorld {
 }
 
 
-// Java program to take an integer
-// as input and print it
- 
-import java.io.*;
-import java.util.Scanner;
- 
 class GFG {
     public static void main(String[] args)
     {
