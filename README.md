@@ -7,3 +7,5 @@ class HelloWorld {
 
 
 hii this is test
+hii hello
+how are you
