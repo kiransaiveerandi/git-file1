@@ -5,7 +5,6 @@ class HelloWorld {
     }
 }
 
-" hi this is kiran "
 
 // Java program to take an integer
 // as input and print it
